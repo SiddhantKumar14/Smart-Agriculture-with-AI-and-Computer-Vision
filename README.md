@@ -9,4 +9,6 @@ The first image, leaf.jpg is the sample image I used for measuring the digital l
 leaf2.png is the image used in the Yellowing rate detection program. It had to be cropped unnaturally since there were more than one objects in the image. 
 An image with only one object need not be cropped.
 
-The age detection dataset has been extracted from the given image using https://automeris.io/WebPlotDigitizer/
+The age detection dataset has been extracted from the given image using https://automeris.io/WebPlotDigitizer/ and prepared from https://www.researchgate.net/publication/237159745_The_growth_and_development_of_the_Leaf_in_tomato_Lycopersicon_esculentum_I_The_plastochron_index_a_suitable_basis_for_description
+and
+https://www.researchgate.net/publication/241869487_The_influence_of_light_intensity_and_leaf_age_on_the_photosynthetic_capacity_of_leaves_within_a_tomato_canopy
