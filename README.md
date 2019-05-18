@@ -1,7 +1,7 @@
 # Leaf-Age-Detection
 An application involving computer vision, machine learning and basic image processing to detect the age of a leaf, by extension the ideal time to harvest a crop based on a single leaf photograph.
 
-A very simple CNN (Convolutional Neural Network) is applied to create a binary classifier which detects whether the given leaf is a tomato leaf or not.
+A very simple CNN model is applied to create a binary classifier which detects whether the given leaf is a tomato leaf or not.
 Training dataset - https://drive.google.com/file/d/1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF/view
 (Only the Healthy leaves section)
 
